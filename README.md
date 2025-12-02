@@ -16,7 +16,6 @@ A Streamlit-based interactive simulator comparing **Traditional Dijkstra Routing
 * [Usage Guide](#usage-guide)
 * [Technical Details](#technical-details)
 * [Educational Value](#educational-value)
-* [License](#license)
 * [Author](#author)
 
 ---
